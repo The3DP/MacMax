@@ -34,7 +34,7 @@ killall python3
 # Benchmark Options
 
 Want to find out your CPU's real-time performance instead of just stressing it? 
-If that's the case for you, then use the file "BenchTest.py" 
+If that's the case for you, then use the file "BenchTest.py" Simply copy that file, then place it in your Mac's Terminal. You're all set!
 
 # Want to know more?
 
